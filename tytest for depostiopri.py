@@ -3,4 +3,5 @@ b=1112
 c=a+b
 print (c)
 print(b)
-ptnt(b*c)
+print(b*c)
+z=2
